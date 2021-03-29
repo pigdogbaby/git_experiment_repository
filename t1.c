@@ -68,6 +68,7 @@ int main()
         {
             printf("This number is invalid.\n");
         }
+	printf("haha\n");
     }
     return 0;
 }
